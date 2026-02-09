@@ -1,4 +1,4 @@
-# 🏆 Projet Coupe de France de Robotique - Édition 2024 - CyBotics
+# Coupe de France de Robotique - 2024 - CyBotics
 
 Welcome to the official repository for my simulation, completed in a few months for the **CyBotics** team's at the French National Robotics Cup!  
 
